@@ -35,7 +35,7 @@ const Example = () => (
 | destSource           | String | Optional Destination Image with Higher Resolution | No | null
 
 ### Methods
-* `onLoad()`   - Function - Calleback once the source Image had been loaded. Signifies the point for zoom calculations.
+* `onLoad()`   - Function - Callback once the source Image had been loaded. Signifies the point for zoom calculations.
 
 
 ###
