@@ -1,0 +1,38 @@
+{
+  "name": "react-lens-zoom",
+  "version": "0.1.1",
+  "private": false,
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "arbaazadossani",
+      "email": "arbaazdossani@gmail.com"
+    }
+  ],
+  "keywords": [
+    "react",
+    "lens",
+    "image",
+    "zoom",
+    "hd",
+    "js"
+  ],
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-es2015": "6.24.1",
+    "react-scripts": "1.1.4"
+  },
+  "main": "./lib/ImageLensZoom",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "minify": "babel src/js -d lib"
+  }
+}
