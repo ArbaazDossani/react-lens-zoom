@@ -1,5 +1,5 @@
 
-# react-zoomable-sunburst-d3-v4
+# react-lens-zoom
 
 The Simplest Zoom Module for Your React Components
 
