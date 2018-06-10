@@ -9,7 +9,7 @@ The Simplest Zoom Module for Your React Components
 npm i react-lens-zoom
 ```
 
-### Example
+### Usage
 
 ```js
 import ImageLensZoom from 'react-lens-zoom';
@@ -21,6 +21,7 @@ const Example = () => (
 );
 ```
 
+### Props
 |    Property    | Type  |          Description          | Mandatory? | Default |
 | -------------  | ----  |          -----------          | ---------- | -------
 | source           | String | The Mandatory Image Source | Yes | -
