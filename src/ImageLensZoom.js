@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { zoomImage, setSourceDivDimensions } from './zoomImage';
-import '../css/zoomImage.css';
-import defaultImage from '../assets/defaultImage.png';
+import './css/zoomImage.css';
+import defaultImage from './assets/defaultImage.png';
 
 const noop = () => {};
 

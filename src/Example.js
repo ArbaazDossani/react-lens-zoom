@@ -1,5 +1,5 @@
 import React from 'react';
-import ImageLensZoom from './js/ImageLensZoom';
+import ImageLensZoom from './ImageLensZoom';
 
 const Example = () => (
   <ImageLensZoom 
