@@ -6,7 +6,7 @@ The Simplest Zoom Module for Your React Components
 ### Installation
 
 ```bash
-npm i react-lens-zoom :mag:
+npm i react-lens-zoom
 ```
 
 ### Example
